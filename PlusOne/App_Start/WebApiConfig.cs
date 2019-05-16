@@ -1,4 +1,7 @@
-﻿namespace PlusOne
+﻿#region Copyright © 2019, Warmoose Design Group
+#endregion
+
+namespace PlusOne
 {
 	using System.Web.Http;
 	using System.Web.Http.Cors;

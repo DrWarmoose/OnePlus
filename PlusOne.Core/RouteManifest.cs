@@ -1,4 +1,7 @@
-﻿namespace PlusOne.Core
+﻿#region Copyright © 2019, Warmoose Design Group
+#endregion
+
+namespace PlusOne.Core
 {
 	using System;
 	using System.Collections.Concurrent;

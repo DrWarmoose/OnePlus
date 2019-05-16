@@ -1,4 +1,7 @@
-﻿namespace PlusOne.Generator
+﻿#region Copyright © 2019, Warmoose Design Group
+#endregion
+
+namespace PlusOne.Generator
 {
 	using System.Linq;
 	using Core;

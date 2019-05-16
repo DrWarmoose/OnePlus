@@ -1,3 +1,6 @@
+#region Copyright © 2019, Warmoose Design Group
+#endregion
+
 namespace PlusOne.Generator
 {
 	static class FirstNames
