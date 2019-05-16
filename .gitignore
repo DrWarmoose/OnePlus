@@ -3,3 +3,10 @@
 ################################################################################
 
 /packages
+/.vs/PlusOne/v16/Server/sqlite3
+/PlusOne/bin
+/PlusOne/obj
+/PlusOne.Core/obj
+/PlusOne.Generator/bin
+/PlusOne.Generator/obj
+/PlusOne/Properties/PublishProfiles/Warmoose.net.pubxml

@@ -1,0 +1,352 @@
+78201|1038 W Ridgewoord Ct
+78201|1730 W Ashby Pl
+78201|1119 W Woodlawn Ave
+78201|2135 W Summit Ave
+78201|543 Williamsburg Pl
+78201|1637 W Magnolia Ave
+78201|1903 W Gramercy Pl
+78201|511 Club Dr.
+78201|427 Princeton Ave.
+78201|1700 W French Pl
+78201|1126 W Summit Ave
+78201|1614 Thorain Blvd
+78201|1531 W Summit Ave
+78201|139 Cincinnati Ave
+78201|1127 W Lullwood Ave
+78201|930 W Craig Pl #6
+78201|2110 W Huisache Ave
+78201|2017 W Mulberry Ave
+78201|1605 W Mistletoe Ave
+78201|216 Northill Dr
+78201|1340 W Ridgewood Ct
+78201|246 Club Dr
+78201|927 San Francisco
+78201|119 Buckeye Ave
+78202|1226 Paso Hondo
+78202|527 Gulf
+78202|514 Canton
+78202|1838 E Crockett St
+78202|2039 Lamar
+78202|516 Potomac
+78202|618 Saint James
+78202|507 Blue Bonnet St
+78202|901 N Pine St
+78202|1312 Dawson St
+78202|531 Gulf
+78202|1010 N Hackberry
+78202|422 Hays
+78202|1110 Nolan St
+78202|1751 E Crocket St
+78202|2447 E Houston St
+78202|630 Sherman
+78202|215 N Center St
+78202|906 Lamar
+78202|1023 Gulf
+78202|1018 Burnet St
+78202|1803 Dawson St
+78202|103 Muncey
+78202|700 Dawson St
+78203|219 Toledo St
+78203|235 Jemison St
+78203|1122 Wyoming St
+78203|105 Spruce St
+78203|1419 Montana St
+78203|217 S Pine St
+78203|340 Maryland St
+78203|418 Dreiss St
+78203|819 Wyoming St
+78203|833 Dakota St
+78203|421 S Pine St
+78203|1425 Montana St
+78203|2134 Virginia Blvd
+78203|818 Martin Luther King Dr
+78203|134 Ranger
+78203|727 S Mittman St
+78203|602 S Olive St
+78203|219 Paul St
+78203|511 Iowa St
+78203|620 Iowa St
+78203|305 Spruce
+78203|1245 Virginia Blvd
+78204|159 E Lambert St
+78204|219 Bank
+78204|222 Beauregard # 4
+78204|204 E Arsenal
+78204|147 Oelkers
+78204|135 E Lambert
+78204|242 E Lambert
+78204|207 E Baylor
+78204|227 Saint Francis Ave
+78204|415 Furnish Ave
+78204|202 W Zavalia
+78204|222 Helena St
+78204|340 Simon
+78204|155 E Lambert
+78204|151 Pendleton Ave
+78204|247 W Fest St
+78204|519 Pruitt Ave
+78204|502 Madison
+78204|115 Peters Ct
+78204|215 Lone Star Blvd
+78204|310 E Lubbock
+78204|1331 S Flores #101
+78204|245 W Fest St
+78204|831 S Flores St
+78205|214 E Travis St #305
+78205|610 E Market St #2615
+78205|123 Lexington Ave #1803
+78205|214 E Travis #206
+78205|600 E Market St #3305
+78205|123 Lexington Ave #1903
+78205|600 E Market St #3303
+78205|610 E Market St #2706
+78205|600 E Market St #2713
+78205|123 Lexington Ave #1201
+78205|123 Lexington Ave #1804
+78205|123 Lexington Ave #1706
+78205|600 E Market St #2818
+78205|123 Lexington Ave #1604
+78205|123 Lexington Ave #1605
+78205|123 Lexington Ave #1303
+78205|123 Lexington Ave #1504
+78205|123 Lexington Ave #1208
+78205|123 Lexington Ave #1406
+78205|123 Lexington Ave #1410
+78205|610 E Market St #2603
+78205|610 E Market St #3009
+78207|1101 N Sabinas St
+78207|1223 Rivas St
+78207|1522 W Houston St
+78207|1710 Delgado St
+78207|1231 Rivas St
+78207|705 Torreon St
+78207|1907 Hidalgo St
+78207|981 S Hamilton St
+78207|321 Huntington St
+78207|734 Lombrano St
+78207|1431 Delgado St
+78207|1600 Loma Vista St
+78207|1923 Hildago St
+78207|239 Amor Ln
+78207|2508 San Luis St
+78207|911 S Murry St
+78207|326 Pinto St
+78207|711 Lombrano St
+78207|539 Ruiz St
+78207|322 N Pinto St
+78207|1715 W Houston
+78207|324 N Pinto St
+78207|2111 SQW 19th St
+78207|142 Leroux St
+78208|910 E Josephine St
+78208|223 Bee St
+78208|312 Quitman St
+78208|1715 N Interstate 35
+78208|1118 Mason St
+78208|510 E Carson St
+78208|1418 Ash St
+78208|219 Bee St
+78208|217 Stafford St
+78208|1606 N Hackberry #305
+78208|307 Sharer St
+78208|1606 N Hackberry #303
+78208|506 E Carson St
+78208|120 Coleman St
+78208|1601 N Olive St
+78208|2259 N Interstate Highway 35
+78208|1606 N Hackberry #302
+78208|1514 Ash St
+78208|1601 N Hackberry #201
+78208|219 Gray St
+78209|505 Ivy Ln
+78209|3006 Northbridge Dr
+78209|125 Lafayette Ave
+78209|1013 Ivy Ln
+78209|158 Barilla Pl
+78209|300 Queen Anne Ct
+78209|151 Arvin Dr
+78209|345 Burr Rd
+78209|1045 Ivy Ln
+78209|211 Oak Glenn Dr
+78209|2013 Elizabeth Rd
+78209|121 Laburnum Dr
+78209|185 Bryn Mawer Dr
+78209|8038 Broadway #237
+78209|630 Jessamine St
+78209|727 Rittiman Rd
+78209|219 Harrison Ave
+78209|224 Wyanoke Dr
+78209|227 Calumet Pl
+78209|205 Robinhood Pl
+78209|225 Castrano Ave
+78209|151 Chichester Pl
+78209|108 Bryn Mawr Dr
+78209|340 Normandy Ave
+78210|3462 Roland Rd
+78210|1934 McKinley Ave
+78210|122 Alamosa Ave
+78210|214 Villareal St
+78210|703 Chicago Blvd
+78210|523 Astor St
+78210|125 Panama Ave
+78210|123 Beltran St
+78210|5221 Hicks Ave
+78210|317 Virginia Blvd
+78210|1018 Greer St
+78210|1430 Schley Ave
+78210|700 Porter St
+78210|807 Denver Blvd
+78210|523 Adams St
+78210|1315 Greeg St
+78210|105 El Fledo Ct
+78210|805 E Highland Blvd
+78210|323 Lavaca St
+78210|340 Ustah St
+78210|339 Wilkens Ave
+78210|347 Wilkens Ave
+78210|418 Mission St
+78210|411 Cedar St
+78211|6214 S Zarzamora St
+78211|623 Mclaughlin Ave
+78211|611 Fay Ave
+78211|1002 King Ave
+78211|3218 Fairmeadows St
+78211|969 Keats St
+78211|322 Mclaughlin Ave
+78211|3118 Coconino Dr
+78211|50 Vickers Ave
+78211|8831 Hunters Creek St
+78211|3426 Reforma Dr
+78211|151 Bradley St
+78211|3342 Algo Dulce
+78211|318 Adolph St
+78211|1306 Vermont St
+78211|2032 Buffalo St.
+78211|1311 Linden Ave
+78211|3248 W Gerald Ave
+78211|339 Lyell St
+78211|3722 Aragon Dr
+78211|1342 Chalmers Ave
+78211|1146 Chalmers Ave
+78211|1115 Crystal
+78211|1826 Buffalo St
+78212|228 Odell St
+78212|201 W Mariposa Dr
+78212|339 W Hollywood Ave
+78212|309 E Mistletoe Ave
+78212|517 San Angelo
+78212|2420 Mccullough Ave #119
+78212|250 Laurel Heights Pl
+78212|431 W Hermosa Dr
+78212|414 Agnes Dr
+78212|141 E Woodlawn Ave
+78212|105 W Mariposa Dr
+78212|115 Hermine Bldv
+78212|200 W Lullwood Ave
+78212|677 E Woodlawn Ave
+78212|10 Ledge Ln
+78212|145 Devine Rd
+78212|419 W Norwood Ct
+78212|531 W Huisache Ave
+78212|211 E Huisache Ave
+78212|130 E Kings Hwy
+78212|529 E Craig Pl
+78212|151 E Elsmere Pl
+78212|138 E Lullwood Ave
+78212|117 E Summit Ave
+78213|12010 Vista Nogal St
+78213|1126 Mount Riga
+78213|207 E Castle Ln
+78213|366 Gazel Dr
+78213|355 Kenyr Dr
+78213|122 Honeysuckle Ln
+78213|249 Redrock Dr
+78213|3714 Neer Ave
+78213|423 Storeywood Dr
+78213|915 Fabulous Dr
+78213|1315 Spanish Oaks
+78213|4402 Neer Ave
+78213|915 Northcrest Dr
+78213|339 Cheery Ridge
+78213|11415 Link Dr
+78213|11314 Crestpark Dr
+78213|101 Briarcliff Dr
+78213|210 Prinz Dr
+78213|82 Roundup Dr
+78213|811 Tamworth Dr
+78213|101 Lemonwood Dr
+78213|58 Basswoord Dr
+78213|247 Latch Dr
+78213|143 Honeysucke Ln
+78214|142 Livingston
+78214|139 E White
+78214|456 E Edmonds Ave
+78214|1443 Sanez
+78214|211 W Dickson Ave
+78214|128 Teresa
+78214|203 E Mayfield Blvd
+78214|222 E Hafer Ave
+78214|1134 March Rd
+78214|114 Teresa
+78214|1527 Sanez
+78214|8806 Mission Rd
+78214|2219 Mission Rd
+78214|111 W Young 
+78214|512 Division Ave
+78214|631 Brighton
+78214|627 Brighton
+78214|302 Bristol
+78214|305 E Theo Ave
+78214|332 Belden Ave
+78214|9410 Espada Rd
+78214|404 Cliff Ave
+78214|9350 Espada Rd
+78214|9902 Roosevelt Ave
+78216|425 W Bitters Rd
+78216|314 Country Wood Dr
+78216|1322 Aylsbury Dr
+78216|547 Patricia
+78216|202 Fantasia St
+78216|510 Thames Dr
+78216|10102 Lorene Ln
+78216|11840 Sandman St
+78216|359 Rexfor Dr
+78216|13787 Bluff Villas Ct
+78216|129 Harriet Dr
+78216|456 E Rampart Dr
+78216|13307 Vista Del Avion
+78216|13418 Vista Del Prado
+78216|306 Ridge Bluff
+78216|1 Greens Whisper
+78216|202 Patricia
+78216|230 Patricia
+78216|1010 Verde Vista Dr
+78216|13515 Vista Bonita
+78216|135 Teakwood Ln
+78216|12610 Mountain Alder
+78216|315 Stonewood St
+78216|1104 River Vista W
+78217|14203 Fairlee
+78217|4807 Canaray Cir
+78217|3114 Manilla Dr
+78217|4010 Stathmore Dr
+78217|4115 Clear Spring Dr
+78217|4346 Hollow Hill Dr
+78217|4929 Champlain
+78217|13827 Crested Rise
+78217|14210 Swallow Dr
+78217|13818 Woodbreeze St
+78217|9119 Autumn Leaf St
+78217|4419 Briardale St
+78217|4162 Bretton Rdg
+78217|4255 Sunshadow St
+78217|4818 Bohill St
+78217|9003 Village Dr
+78217|3843 Barrington St
+78217|4627 Aspen View
+78217|8802 Pineridge Rd
+78217|9830 Titan Dr
+78217|3123 Mindoro Dr
+78217|4802 Canaray Cir
+78217|4423 Clear Spring Dr
+78217|3118 Wroxton Rd
