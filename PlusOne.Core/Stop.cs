@@ -41,7 +41,7 @@ namespace PlusOne.Core
 
 		public ServiceLevel ServiceLevel
 		{
-			get { return Packages.Any() ? Packages.Values.Min(x => x.Service) : ServiceLevel.SecondDay; }
+			get { return Packages.Any() ? Packages.Values.Min(x => x.Service) : ServiceLevel.Unknown; }
 		}
 
 		public Stop()

@@ -47,6 +47,7 @@ namespace PlusOne.Generator
                 Origin = AddressGenerator.Create(),
                 Destination = AddressGenerator.Create(postal),
                 Service = Service,
+                Signature = Signature,
                 Recipient = CreateContact(),
                 Shipper = CreateContact(),
 				Dimensions = Dimension

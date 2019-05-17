@@ -12,12 +12,16 @@ namespace PlusOne.Controllers
 	{
 		private IRouteManager _manager;
 
-		public RouteController(IRouteManager routeManager = null)
+		public RouteController()
+		{
+			_manager = new RouteManager();
+		}
+		public RouteController(IRouteManager routeManager)
 		{
 			_manager = routeManager ?? new RouteManager();
 		}
 
-	    public object Get()
+		public object Get()
 	    {
 		    var task = Request.RequestUri.Segments.LastOrDefault().ToUpper();
 

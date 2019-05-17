@@ -3,5 +3,5 @@
 
 namespace PlusOne.Core
 {
-	public enum ServiceLevel { NextDayEarly, NextDayMorning, NextDayAfternoon, NextDay, SecondDay }
+	public enum ServiceLevel { Unknown, NextDayEarly, NextDayMorning, NextDayAfternoon, NextDay, SecondDay }
 }
